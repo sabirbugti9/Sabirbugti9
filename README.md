@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Sabirbugti9/Sabirbugti9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫About Me :
 🔭 I’m currently working on Flutter Project.
 🌱 I’m currently learning more about Flutter,Firebase,Nodejs.
